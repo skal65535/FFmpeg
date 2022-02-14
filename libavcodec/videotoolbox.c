@@ -31,6 +31,7 @@
 #include "decode.h"
 #include "h264dec.h"
 #include "hevcdec.h"
+#include "internal.h"
 #include "mpegvideo.h"
 #include "proresdec.h"
 #include <Availability.h>
